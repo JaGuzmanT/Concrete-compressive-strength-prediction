@@ -1,4 +1,4 @@
-# Concrete-compressive-strength-prediction
+# Concrete-compressive-strength-prediction using non-destructive tests
 
 Compressive strength is the ability of a material or structure to withstand axial loads.
 
