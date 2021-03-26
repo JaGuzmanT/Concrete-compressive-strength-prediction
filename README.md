@@ -1,4 +1,6 @@
-# Concrete-compressive-strength-predictionCompressive strength is the ability of a material or structure to withstand axial loads.
+# Concrete-compressive-strength-prediction
+
+Compressive strength is the ability of a material or structure to withstand axial loads.
 
 Compressive strength is one of the most significant measurable parameters of concrete. Usually, these tests are performed on concrete cylinders. Testing requirements differ from country to country depending on the design code.
 
