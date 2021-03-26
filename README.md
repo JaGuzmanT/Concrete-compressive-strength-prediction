@@ -7,9 +7,13 @@ Compressive strength is one of the most significant measurable parameters of con
 ## Description of the repository
 
 This repository contains 2 folders with 1 notebook for each one.
+
 Features: Ultrasonic pulse velocity (UPV), Electrical resistivity (Er), Resonance frequency (FR), and Compressive strength (CS).
+
 Target: Compressive strength
+
 Type of problem: Supervised and Regression problem
+
 Regressor: Deep Neural Network, DNN for short.
 
 1.- Preprocessing data-Folder
