@@ -6,7 +6,7 @@ Ultrasonic pulse velocity (UPV), Electrical resistivity (Er), Resonance frequenc
 
 ## Description of the repository
 
-This repository contains 2 folders with 1 notebook for each one.
+This repository contains one file in the .csv extension.
 
 Features: Ultrasonic pulse velocity (UPV), Electrical resistivity (Er), Resonance frequency (FR), Tensile strength (Ts), and Compressive strength (CS).
 
